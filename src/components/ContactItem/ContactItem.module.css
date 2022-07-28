@@ -1,0 +1,8 @@
+.itemText {
+    display: inline-block;
+    margin-right: 20px;
+}
+.delete{
+    color: red;
+    cursor: pointer;
+}
